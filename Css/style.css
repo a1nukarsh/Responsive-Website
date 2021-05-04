@@ -219,12 +219,10 @@
   padding-bottom: 9px;
 }
 
-/* .key-thirdcontainer{
-  border: 2px solid green;
-} */
+
 .top3{
   padding: 70px 240px 70px 240px;
-  /* border: 2px solid red; */
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -264,9 +262,7 @@ color: rgba(36, 47, 81, 255);
   padding-bottom: 9px;
 }
 
-/* .bottom3{
-  border: 2px solid blue;
-} */
+
 
 
 
@@ -274,7 +270,7 @@ color: rgba(36, 47, 81, 255);
 .footer{
     height: 567px;
     background-color: rgb(11, 20, 44);
-    /* background-image: url("../Img/Footer/Rectangle8@1X.png"); */
+    
 }
 .footer-box{
     display: flex;
@@ -340,6 +336,7 @@ color: rgb(69, 73, 87);
   }
 
   #sidebar a {
+    text-decoration: none;
     color: white;
     padding: 10px 0;
   }
